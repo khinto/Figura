@@ -1,0 +1,10 @@
+C:\Users\geobk\source\repos\Figura\Figura\bin\Debug\Figura.exe.config
+C:\Users\geobk\source\repos\Figura\Figura\bin\Debug\Figura.exe
+C:\Users\geobk\source\repos\Figura\Figura\bin\Debug\Figura.pdb
+C:\Users\geobk\source\repos\Figura\Figura\obj\Debug\Figura.csprojAssemblyReference.cache
+C:\Users\geobk\source\repos\Figura\Figura\obj\Debug\Figura.Form1.resources
+C:\Users\geobk\source\repos\Figura\Figura\obj\Debug\Figura.Properties.Resources.resources
+C:\Users\geobk\source\repos\Figura\Figura\obj\Debug\Figura.csproj.GenerateResource.cache
+C:\Users\geobk\source\repos\Figura\Figura\obj\Debug\Figura.csproj.CoreCompileInputs.cache
+C:\Users\geobk\source\repos\Figura\Figura\obj\Debug\Figura.exe
+C:\Users\geobk\source\repos\Figura\Figura\obj\Debug\Figura.pdb
